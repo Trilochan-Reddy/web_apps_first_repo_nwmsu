@@ -1,4 +1,4 @@
-line A
+diff on line 1
 line B
 diff on line 3
 line D
